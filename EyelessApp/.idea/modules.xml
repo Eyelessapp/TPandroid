@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eyeless/Eyeless.iml" filepath="$PROJECT_DIR$/Eyeless/Eyeless.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EyelessApp.iml" filepath="$PROJECT_DIR$/EyelessApp.iml" />
+    </modules>
+  </component>
+</project>

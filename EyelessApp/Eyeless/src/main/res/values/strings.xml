@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Eyeless</string>
+
+
+    <string-array name="items_drawer">
+        <item>Accueil</item>
+        <item>Profil</item>
+        <item>Messages</item>
+        <item>Réglages</item>
+        <item>A propos</item>
+
+    </string-array>
+    <string-array name="icon_drawer">
+        <item>@android:drawable/ic_input_add</item>
+    </string-array>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Conversations</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="btn_Connection">Se connecter</string>
+    <string name="title_activity_activity_connect">ActivityConnect</string>
+    <string name="title_activity_chargement">Chargement</string>
+
+    <string name="description_a_propos" ></string>
+
+
+    <string name="ouverture">ouvert</string>
+    <string name="fermeture">fermer</string>
+    <string name="title_activity_activity_gps">Map</string>
+
+
+</resources>
